@@ -1025,3 +1025,8 @@ cite {
 .copyright__text:not(:last-child) {
     margin-right: 39px;
 }
+
+.copyright__name {
+    margin-left: auto;
+    margin-right: auto;
+}
