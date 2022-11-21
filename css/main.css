@@ -665,10 +665,6 @@ cite {
     width: 44px;
 }
 
-.slider__dots img:not(:last-child) {
-    margin-right: 6px;
-}
-
 .teaching {
     background: #1C1C33;
     padding: 136px 0 88px;
