@@ -21,12 +21,4 @@ $(function () {
         $('.menu').toggleClass('menu-opened');
     });
 
-    $('.slider').slick({
-        dots: true,
-        infinite: false,
-        autoplay: false,
-        prevArrow: false,
-        nextArrow: false,
-    });
-
 });
